@@ -1,0 +1,12 @@
+============================================================
+               RELATÓRIO GERAL DO SISTEMA
+        Data: 25/08/2025 12:13:06
+============================================================
+
+
+=== PROFESSORES ===
+1. PROFESSOR - Joao Metambo | Idade: 63 | Disciplina: POO | Salário: 98799,00 MT
+2. PROFESSOR - Sicuaio | Idade: 46 | Disciplina: MD 2 | Salário: 75655,00 MT
+
+=== ALUNOS ===
+1. NÃO-BOLSEIRO - Carlos Sitoe | Matrícula: 2024 | Curso: Marketing | Nota: 14,0 | Aprovado: Sim | Dispensado: Sim | Mensalidade: 5000,00 MT

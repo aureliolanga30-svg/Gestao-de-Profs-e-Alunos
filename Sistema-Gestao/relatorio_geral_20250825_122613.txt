@@ -1,0 +1,16 @@
+============================================================
+               RELATÓRIO GERAL DO SISTEMA
+        Data: 25/08/2025 12:26:13
+============================================================
+
+
+=== PROFESSORES ===
+1. PROFESSOR - Joao Metambo | Idade: 63 | Disciplina: POO | Salário: 98799,00 MT
+2. PROFESSOR - Sicuaio | Idade: 46 | Disciplina: MD 2 | Salário: 75655,00 MT
+3. PROFESSOR - Joao Munembe | Idade: 58 | Disciplina: Matematicas | Salário: 100000,00 MT
+
+=== ALUNOS ===
+1. NÃO-BOLSEIRO - Carlos Sitoe | Matrícula: 2024 | Curso: Marketing | Nota: 14,0 | Aprovado: Sim | Dispensado: Sim | Mensalidade: 5000,00 MT
+2. BOLSEIRO - Zebedeu Jafar | Matrícula: 2023 | Curso: Estatistica | Nota: 12,0 | Aprovado: Sim | Dispensado: Não | Mensalidade: 2500,00 MT
+3. BOLSEIRO - Catarina Buffman | Matrícula: 2025 | Curso: Quimica | Nota: 15,0 | Aprovado: Sim | Dispensado: Não | Mensalidade: 2500,00 MT
+4. NÃO-BOLSEIRO - Ayla Lundgreen | Matrícula: 2020 | Curso:  Direito | Nota: 10,0 | Aprovado: Sim | Dispensado: Não | Mensalidade: 5000,00 MT
